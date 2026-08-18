@@ -999,3 +999,303 @@ No   IGT            Start RTA      End RTA        Length     Retime?    Reason /
 10   21:14:20.508   18855:54:11.86518855:54:12.5730.708      0.708      Paused by player, Unpause by player
 11   21:14:51.508   18855:54:43.56718855:54:45.9822.415      2.415      Paused by player, Unpause by player
 12   21:17:04.208   18855:56:58.66218855:57:03.7175.055      5.055      Paused by player, Unpause by player
+13   21:17:08.108   18855:57:07.61518855:57:07.9930.378      0.378      Paused by player, Unpause by player
+0    21:17:09.808   18855:57:09.69618865:50:19.26035589.564             Paused by player, Unpause by changed look direction
+1    21:17:15.161   18865:50:24.22018865:50:26.8532.633      2.633      Paused by player, Unpause by player
+2    21:17:16.211   18865:50:27.87118865:50:30.1772.306      2.306      Paused by player, Unpause by player
+0    21:17:16.411   18865:50:30.42818866:11:14.1151243.687              Paused by player, Unpause by rendered
+1    21:17:29.382   18866:11:27.07618866:11:27.6080.532      0.532      Paused by player, Unpause by player
+0    21:17:42.332   18866:11:40.58218867:21:10.0594169.477              Paused by player, Unpause by rendered
+1    21:18:03.618   18867:21:31.36918867:21:36.7935.424      5.424      Paused by player, Unpause by player
+0    21:22:51.418   18867:26:24.58718870:36:06.31111381.724             Paused by player, Unpause by rendered
+0    21:22:53.348   18870:36:08.25418872:00:45.8055077.551              Paused by player, Unpause by changed look direction
+0    21:22:56.260   18872:00:48.66318874:06:06.5247517.861              Paused by player, Unpause by changed look direction
+0    21:22:57.412   18874:06:07.60718874:06:09.8742.267                 Paused by player, Unpause by changed look direction
+0    21:22:57.420   18874:06:09.89418877:05:38.85510768.961             Paused by player, Unpause by rendered
+1    21:23:07.767   18877:05:49.19318877:05:49.8460.653      0.653      Paused by player, Unpause by player
+2    21:23:33.167   18877:06:15.28218877:06:26.04310.761     10.761     Paused by player, Unpause by player
+3    21:28:28.017   18877:11:20.89318877:11:33.42912.536     12.536     Paused by player, Unpause by player
+1    24:35:36.617   18880:18:54.23618889:52:16.28734402.051             Paused by leave the world, Unpause by changed look direction
+0    24:36:08.369   18889:52:47.68318890:09:19.366991.683               Paused by player, Unpause by rendered
+0    24:36:36.813   18890:09:47.82318890:38:08.6281700.805              Paused by player, Unpause by rendered
+0    24:36:56.306   18890:38:28.14318890:47:26.774538.631               Paused by player, Unpause by changed look direction
+0    24:37:02.763   18890:47:33.23418890:58:04.313631.079               Paused by player, Unpause by changed look direction
+0    24:37:47.216   18890:58:48.32118892:20:03.2734874.952              Paused by player, Unpause by rendered
+0    24:38:19.389   18892:20:35.43118892:31:06.415630.984               Paused by player, Unpause by rendered
+0    24:38:59.033   18892:31:46.07218892:50:30.9581124.886              Paused by player, Unpause by rendered
+0    24:39:44.522   18892:51:16.45418893:04:35.859799.405               Paused by player, Unpause by rendered
+0    24:40:20.370   18893:05:11.73818893:22:48.6391056.901              Paused by player, Unpause by changed look direction
+0    24:40:21.073   18893:22:49.07018893:55:07.4831938.413              Paused by player, Unpause by changed look direction
+0    24:41:52.125   18893:56:38.50018897:05:39.30911340.809             Paused by player, Unpause by rendered
+0    24:42:08.917   18897:05:56.09418897:22:39.2241003.130              Paused by player, Unpause by rendered
+0    24:44:21.110   18897:24:51.42118897:40:17.647926.226               Paused by player, Unpause by rendered
+0    24:45:10.006   18897:41:06.55018898:47:40.4943993.944              Paused by player, Unpause by rendered
+0    24:46:52.004   18898:49:22.53718899:04:54.968932.431               Paused by player, Unpause by rendered
+0    24:47:14.882   18899:05:17.83318899:21:00.349942.516               Paused by player, Unpause by rendered
+0    24:47:32.395   18899:21:17.88618899:43:52.9061355.020              Paused by player, Unpause by rendered
+0    24:48:07.891   18899:44:28.43918915:31:18.97056810.531             Paused by player, Unpause by rendered
+0    24:48:22.089   18915:31:33.17118915:48:08.445995.274               Paused by player, Unpause by rendered
+0    24:49:37.236   18915:49:23.63418916:05:07.764944.130               Paused by player, Unpause by rendered
+0    24:50:04.083   18916:05:34.61318917:15:07.3174172.704              Paused by player, Unpause by rendered
+1    24:52:32.673   18917:17:35.88618917:17:36.4570.571      0.571      Paused by player, Unpause by player
+2    24:52:32.973   18917:17:36.74218917:17:37.4900.748      0.748      Paused by player, Unpause by player
+3    24:52:33.323   18917:17:37.82818917:17:38.2490.421      0.421      Paused by player, Unpause by player
+0    24:57:13.173   18917:22:18.11118917:22:23.0524.941                 Paused by player, Unpause by rendered
+1    25:00:19.472   18917:25:29.33618917:25:31.0981.762      1.762      Paused by player, Unpause by player
+2    25:07:59.622   18917:33:11.24818917:33:12.0260.778      0.778      Paused by player, Unpause by player
+3    25:14:19.472   18917:39:31.83818917:39:32.6490.811      0.811      Paused by player, Unpause by player
+4    25:28:46.272   18917:53:59.39818917:54:00.0020.604      0.604      Paused by player, Unpause by player
+5    25:29:03.972   18917:54:17.69918917:54:21.3323.633      3.633      Paused by player, Unpause by player
+6    25:35:48.722   18918:01:06.06018918:01:07.8801.820      1.820      Paused by player, Unpause by player
+7    25:35:49.222   18918:01:08.37518918:01:08.7840.409      0.409      Paused by player, Unpause by player
+8    25:35:49.672   18918:01:09.22118918:01:09.7570.536      0.536      Paused by player, Unpause by player
+9    25:35:51.672   18918:01:11.72418918:01:11.9240.200      0.200      Paused by player, Unpause by player
+0    25:36:00.772   18918:01:21.01818918:30:17.5351736.517              Paused by player, Unpause by changed look direction
+1    25:36:06.324   18918:30:23.08418918:30:29.6916.607      6.607      Paused by player, Unpause by player
+0    25:36:09.024   18918:30:32.38518919:16:15.3822742.997              Paused by player, Unpause by rendered
+1    25:36:09.583   18919:16:15.92318919:16:18.0732.150                 Paused by player, Unpause by player / changed option
+2    25:36:26.633   18919:16:35.11018919:16:35.9540.844                 Paused by player, Unpause by player / changed option
+0    25:41:03.033   18919:21:12.37618920:56:02.2185689.842              Paused by player, Unpause by rendered
+0    26:37:01.398   18921:52:00.60418921:52:18.81818.214                Paused by player, Unpause by rendered
+1    26:37:02.536   18921:52:19.96518921:52:21.0971.132      1.132      Paused by player, Unpause by player
+0    26:37:07.786   18921:52:26.35018922:03:05.381639.031               Paused by player, Unpause by rendered
+0    26:37:29.381   18922:03:27.01818922:20:10.1831003.165              Paused by player, Unpause by rendered
+0    26:37:56.673   18922:20:37.49118922:33:05.627748.136               Paused by player, Unpause by rendered
+0    26:38:43.770   18922:33:52.75118922:38:43.011290.260               Paused by player, Unpause by rendered
+0    26:38:45.467   18922:38:44.70518922:59:50.7821266.077              Paused by player, Unpause by changed look direction
+0    26:39:17.875   18923:00:23.17118923:08:11.533468.362               Paused by player, Unpause by rendered
+0    26:40:34.719   18923:09:28.36618923:25:44.734976.368               Paused by player, Unpause by rendered
+0    26:40:48.513   18923:25:58.55518934:17:36.48039097.925             Paused by player, Unpause by rendered
+1    29:55:31.774   18937:32:19.75618937:47:21.683901.927               Paused by leave the world, Unpause by rendered
+0    29:55:55.182   18937:47:45.09218938:31:19.5782614.486              Paused by player, Unpause by changed look direction
+0    29:56:13.535   18938:31:37.49418938:51:11.2671173.773              Paused by player, Unpause by rendered
+0    29:57:04.928   18938:52:02.69818939:06:19.786857.088               Paused by player, Unpause by changed look direction
+0    29:57:52.980   18939:07:07.80018939:35:35.4961707.696              Paused by player, Unpause by changed look direction
+0    29:58:11.389   18939:35:53.87018939:53:09.0911035.221              Paused by player, Unpause by rendered
+0    29:58:51.530   18939:53:49.24818940:07:05.321796.073               Paused by player, Unpause by rendered
+0    29:59:25.777   18940:07:39.57218942:11:26.8887427.316              Paused by player, Unpause by changed look direction
+1    30:05:06.784   18942:17:07.84718942:17:08.8501.003                 Paused by player, Unpause by player / changed option
+2    30:05:06.934   18942:17:08.97818942:17:09.3780.400      0.400      Paused by player, Unpause by player
+3    30:05:09.384   18942:17:11.83918942:17:12.5760.737                 Paused by player, Unpause by player / changed option
+0    30:05:11.084   18942:17:14.31218942:17:43.31829.006                Paused by player, Unpause by changed look direction
+0    30:05:51.136   18942:18:23.31418944:29:31.3237868.009              Paused by player, Unpause by changed look direction
+1    30:13:44.389   18944:37:24.43318944:37:31.2766.843      6.843      Paused by player, Unpause by player
+2    30:14:03.239   18944:37:50.08618944:37:50.9200.834      0.834      Paused by player, Unpause by player
+0    30:35:44.189   18944:59:31.82618947:24:27.4758695.649              Paused by player, Unpause by rendered
+1    30:37:48.436   18947:26:31.75418947:26:43.27111.517     11.517     Paused by player, Unpause by player
+0    30:37:51.586   18947:26:46.41118948:19:35.1733168.762              Paused by player, Unpause by rendered
+0    30:38:15.733   18948:19:59.32318948:51:34.3671895.044              Paused by player, Unpause by rendered
+1    30:44:25.179   18948:57:43.80418948:57:44.8061.002      1.002      Paused by player, Unpause by player
+2    30:45:19.279   18948:58:38.89218948:58:39.6260.734      0.734      Paused by player, Unpause by player
+3    30:45:21.579   18948:58:41.92318948:58:52.07010.147     10.147     Paused by player, Unpause by player
+4    30:45:34.529   18948:59:05.01518948:59:05.9210.906      0.906      Paused by player, Unpause by player
+5    30:45:35.479   18948:59:06.85518948:59:07.5900.735      0.735      Paused by player, Unpause by player
+6    30:45:36.129   18948:59:08.24218948:59:09.5511.309      1.309      Paused by player, Unpause by player
+7    30:45:36.929   18948:59:10.34218948:59:12.4092.067      2.067      Paused by player, Unpause by player
+8    30:45:37.429   18948:59:12.87718948:59:14.7161.839      1.839      Paused by player, Unpause by player
+9    30:45:42.729   18948:59:19.99418948:59:23.3803.386      3.386      Paused by player, Unpause by player
+10   30:45:43.229   18948:59:23.87018948:59:28.1574.287      4.287      Paused by player, Unpause by player
+11   30:45:45.129   18948:59:30.05518948:59:30.9270.872      0.872      Paused by player, Unpause by player
+0    30:46:05.379   18948:59:51.17218958:38:34.83634723.664             Paused by player, Unpause by rendered
+1    30:46:50.104   18958:39:19.58418958:39:20.2090.625      0.625      Paused by player, Unpause by player
+2    30:46:58.754   18958:39:28.82618958:39:48.12319.297     19.297     Paused by player, Unpause by player
+3    30:53:35.954   18958:46:25.28618958:46:26.1930.907      0.907      Paused by player, Unpause by player
+0    31:02:00.304   18958:54:50.56118958:54:53.6023.041                 Paused by player, Unpause by changed look direction
+1    31:03:47.408   18958:56:40.62218958:57:43.22562.603                Paused by leave the world, Unpause by rendered
+2    31:06:33.367   18959:00:29.17818959:02:04.84595.667     95.667     Paused by player, Unpause by player
+3    31:11:47.767   18959:07:19.22618959:09:31.926132.700    132.700    Paused by player, Unpause by player
+4    31:16:46.267   18959:14:30.38918959:14:31.0460.657      0.657      Paused by player, Unpause by player
+5    31:16:53.917   18959:14:38.66118959:14:39.4060.745      0.745      Paused by player, Unpause by player
+6    31:17:05.967   18959:14:51.44818959:15:27.74436.296     36.296     Paused by player, Unpause by player
+7    31:17:15.117   18959:15:36.87618959:17:21.045104.169    104.169    Paused by player, Unpause by player
+8    31:17:15.617   18959:17:21.49918959:17:55.59334.094     34.094     Paused by player, Unpause by player
+9    31:17:31.867   18959:18:11.81118959:18:47.49835.687     35.687     Paused by player, Unpause by player
+10   31:19:28.467   18959:20:44.10018959:21:18.56334.463     34.463     Paused by player, Unpause by player
+11   31:19:31.767   18959:21:21.83918959:21:22.2980.459      0.459      Paused by player, Unpause by player
+12   31:20:08.017   18959:21:58.52118959:22:13.91415.393     15.393     Paused by player, Unpause by player
+13   31:20:24.367   18959:22:30.23818959:22:35.1624.924      4.924      Paused by player, Unpause by player
+14   31:21:12.217   18959:23:23.04318959:23:37.15514.112     14.112     Paused by player, Unpause by player
+15   31:22:18.917   18959:24:43.84618959:25:12.17428.328     28.328     Paused by player, Unpause by player
+16   31:22:49.167   18959:25:42.41018959:25:48.5096.099      6.099      Paused by player, Unpause by player
+17   31:26:31.417   18959:29:30.71618959:29:31.4210.705      0.705      Paused by player, Unpause by player
+18   31:26:44.517   18959:29:44.48918959:29:45.2920.803      0.803      Paused by player, Unpause by player
+19   31:27:02.317   18959:30:03.05818959:30:04.6501.592      1.592      Paused by player, Unpause by player
+20   31:27:09.517   18959:30:11.82618959:30:12.7440.918      0.918      Paused by player, Unpause by player
+21   31:27:10.067   18959:30:13.29418959:30:14.4641.170      1.170      Paused by player, Unpause by player
+22   31:27:11.767   18959:30:16.14818959:30:16.7220.574      0.574      Paused by player, Unpause by player
+23   31:27:15.067   18959:30:19.97918959:30:20.6930.714      0.714      Paused by player, Unpause by player
+24   31:27:15.867   18959:30:21.48218959:30:22.0640.582      0.582      Paused by player, Unpause by player
+25   31:27:47.717   18959:30:53.95518959:31:07.00513.050     13.050     Paused by player, Unpause by player
+26   31:28:27.817   18959:31:47.05918959:31:47.7350.676      0.676      Paused by player, Unpause by player
+27   31:28:34.517   18959:31:54.41618959:31:55.2340.818      0.818      Paused by player, Unpause by player
+28   31:28:35.067   18959:31:55.74618959:31:56.2080.462      0.462      Paused by player, Unpause by player
+29   31:28:35.567   18959:31:56.65718959:31:57.4540.797      0.797      Paused by player, Unpause by player
+30   31:28:51.167   18959:32:13.01318959:32:13.5920.579      0.579      Paused by player, Unpause by player
+31   31:29:24.817   18959:32:47.21818959:32:48.2351.017      1.017      Paused by player, Unpause by player
+32   31:29:25.317   18959:32:48.69418959:32:49.3640.670      0.670      Paused by player, Unpause by player
+33   31:30:22.017   18959:33:46.05718959:33:46.7110.654      0.654      Paused by player, Unpause by player
+34   31:34:24.767   18959:37:49.45518959:37:49.9690.514      0.514      Paused by player, Unpause by player
+35   31:34:38.167   18959:38:03.33618959:38:04.1690.833      0.833      Paused by player, Unpause by player
+36   31:34:38.717   18959:38:04.70818959:38:05.4730.765      0.765      Paused by player, Unpause by player
+37   31:34:39.817   18959:38:06.55218959:38:15.2298.677      8.677      Paused by player, Unpause by player
+38   31:34:47.267   18959:38:22.67418959:38:23.2390.565      0.565      Paused by player, Unpause by player
+39   31:36:41.617   18959:40:17.57018959:43:12.106174.536    174.536    Paused by player, Unpause by player
+40   31:38:31.517   18959:45:01.94818959:45:13.30311.355     11.355     Paused by player, Unpause by player
+41   31:38:34.267   18959:45:16.01118959:45:16.4450.434      0.434      Paused by player, Unpause by player
+42   31:38:34.667   18959:45:16.83818959:45:17.8591.021      1.021      Paused by player, Unpause by player
+43   31:38:35.017   18959:45:18.17618959:46:17.83059.654     59.654     Paused by player, Unpause by player
+44   31:38:35.517   18959:46:18.29518959:46:27.8489.553      9.553      Paused by player, Unpause by player
+45   31:38:36.117   18959:46:28.42718959:46:29.0280.601      0.601      Paused by player, Unpause by player
+46   31:38:36.617   18959:46:29.53718959:46:47.11117.574     17.574     Paused by player, Unpause by player
+47   31:38:37.167   18959:46:47.61218959:47:02.24314.631     14.631     Paused by player, Unpause by player
+48   31:38:37.767   18959:47:02.82618959:48:20.55977.733     77.733     Paused by player, Unpause by player
+49   31:38:44.567   18959:48:27.32718959:49:12.22744.900     44.900     Paused by player, Unpause by player
+50   31:38:55.567   18959:49:23.20718959:49:25.2672.060      2.060      Paused by player, Unpause by player
+51   31:39:05.217   18959:49:34.88518959:49:43.1338.248      8.248      Paused by player, Unpause by player
+52   31:39:15.167   18959:49:53.05718959:49:54.2091.152      1.152      Paused by player, Unpause by player
+53   31:39:18.517   18959:49:57.52618959:50:13.55716.031     16.031     Paused by player, Unpause by player
+54   31:39:26.767   18959:50:21.79418959:50:23.7831.989      1.989      Paused by player, Unpause by player
+55   31:39:39.117   18959:50:36.12418959:50:44.6238.499      8.499      Paused by player, Unpause by player
+56   31:39:39.967   18959:50:45.46218959:50:46.1090.647      0.647      Paused by player, Unpause by player
+57   31:39:40.867   18959:50:46.99418959:51:49.28462.290     62.290     Paused by player, Unpause by player
+58   31:39:45.667   18959:51:54.03018959:51:55.1341.104      1.104      Paused by player, Unpause by player
+59   31:39:46.167   18959:51:55.59918959:51:56.9021.303      1.303      Paused by player, Unpause by player
+60   31:39:56.067   18959:52:06.75818959:52:09.7482.990      2.990      Paused by player, Unpause by player
+61   31:39:57.717   18959:52:11.36418959:52:14.3242.960      2.960      Paused by player, Unpause by player
+62   31:40:10.817   18959:52:27.42518959:52:33.0405.615      5.615      Paused by player, Unpause by player
+63   31:40:15.367   18959:52:37.57418959:52:38.2590.685      0.685      Paused by player, Unpause by player
+64   31:40:17.217   18959:52:40.10418959:53:00.29020.186     20.186     Paused by player, Unpause by player
+65   31:40:23.667   18959:53:06.70418959:53:13.7417.037      7.037      Paused by player, Unpause by player
+66   31:40:30.617   18959:53:20.67318959:53:23.5352.862      2.862      Paused by player, Unpause by player
+67   31:40:41.767   18959:53:34.65918959:53:36.1981.539      1.539      Paused by player, Unpause by player
+68   31:40:53.117   18959:53:47.52018959:53:48.0720.552      0.552      Paused by player, Unpause by player
+69   31:41:00.667   18959:53:55.59818959:53:57.2901.692      1.692      Paused by player, Unpause by player
+70   31:41:05.367   18959:54:01.99018959:54:10.3738.383      8.383      Paused by player, Unpause by player
+71   31:41:08.967   18959:54:13.94218959:55:47.31093.368     93.368     Paused by player, Unpause by player
+72   31:42:44.117   18959:57:22.40518959:57:41.43519.030     19.030     Paused by player, Unpause by player
+73   31:42:47.817   18959:57:45.11618959:57:46.1120.996      0.996      Paused by player, Unpause by player
+74   31:43:22.867   18959:58:21.14318959:58:27.9956.852      6.852      Paused by player, Unpause by player
+75   31:43:24.517   18959:58:29.62718959:58:30.2620.635      0.635      Paused by player, Unpause by player
+76   31:43:27.217   18959:58:32.94418959:58:36.8693.925      3.925      Paused by player, Unpause by player
+77   31:43:30.267   18959:58:39.88018959:58:45.4925.612      5.612      Paused by player, Unpause by player
+78   31:43:32.067   18959:58:47.24718959:58:51.4624.215      4.215      Paused by player, Unpause by player
+79   31:43:34.217   18959:58:53.60218959:58:56.7473.145      3.145      Paused by player, Unpause by player
+80   31:43:35.417   18959:58:57.95018959:59:01.1863.236      3.236      Paused by player, Unpause by player
+81   31:43:37.517   18959:59:03.25918959:59:08.4625.203      5.203      Paused by player, Unpause by player
+82   31:43:39.867   18959:59:10.77018959:59:13.2692.499      2.499      Paused by player, Unpause by player
+83   31:43:41.867   18959:59:15.23218959:59:18.9673.735      3.735      Paused by player, Unpause by player
+84   31:43:43.317   18959:59:20.39218959:59:22.9992.607      2.607      Paused by player, Unpause by player
+85   31:44:35.067   18960:00:14.71018960:00:40.36425.654     25.654     Paused by player, Unpause by player
+86   31:44:39.217   18960:00:44.47918960:00:44.9880.509      0.509      Paused by player, Unpause by player
+87   31:44:39.567   18960:00:45.30018960:00:51.4276.127      6.127      Paused by player, Unpause by player
+88   31:45:40.667   18960:01:52.49818960:01:56.7864.288      4.288      Paused by player, Unpause by player
+89   31:45:43.767   18960:01:59.87018960:02:01.0781.208      1.208      Paused by player, Unpause by player
+90   31:45:44.167   18960:02:01.45018960:02:05.4824.032      4.032      Paused by player, Unpause by player
+91   31:45:47.217   18960:02:08.52518960:02:10.0351.510      1.510      Paused by player, Unpause by player
+92   31:45:48.217   18960:02:11.01918960:02:12.0931.074      1.074      Paused by player, Unpause by player
+93   31:45:49.217   18960:02:13.09518960:02:16.9823.887      3.887      Paused by player, Unpause by player
+94   31:47:01.217   18960:03:28.98118960:03:42.02013.039     13.039     Paused by player, Unpause by player
+95   31:47:03.017   18960:03:43.79918960:03:44.6410.842      0.842      Paused by player, Unpause by player
+96   31:47:11.167   18960:03:52.79018960:03:53.7550.965      0.965      Paused by player, Unpause by player
+97   31:47:11.617   18960:03:54.18118960:03:54.8420.661      0.661      Paused by player, Unpause by player
+98   31:47:12.067   18960:03:55.26018960:03:55.8440.584      0.584      Paused by player, Unpause by player
+99   31:47:12.567   18960:03:56.32718960:03:57.2050.878      0.878      Paused by player, Unpause by player
+100  31:48:11.017   18960:04:55.65018960:04:56.6751.025      1.025      Paused by player, Unpause by player
+101  31:48:11.417   18960:04:57.04618960:05:03.5916.545      6.545      Paused by player, Unpause by player
+102  31:48:11.917   18960:05:04.06518960:05:10.4446.379      6.379      Paused by player, Unpause by player
+103  31:48:14.817   18960:05:13.34518960:05:21.4758.130      8.130      Paused by player, Unpause by player
+104  31:48:15.567   18960:05:22.19618960:05:23.4751.279      1.279      Paused by player, Unpause by player
+105  31:48:15.867   18960:05:23.76718960:05:24.4970.730      0.730      Paused by player, Unpause by player
+106  31:48:16.417   18960:05:25.00418960:05:33.2298.225      8.225      Paused by player, Unpause by player
+107  31:48:17.017   18960:05:33.80218960:05:40.4376.635      6.635      Paused by player, Unpause by player
+108  31:48:17.717   18960:05:41.12818960:05:45.6864.558      4.558      Paused by player, Unpause by player
+109  31:48:18.467   18960:05:46.42018960:05:55.0748.654      8.654      Paused by player, Unpause by player
+110  31:48:18.917   18960:05:55.50118960:05:56.4690.968      0.968      Paused by player, Unpause by player
+111  31:48:19.317   18960:05:56.83118960:05:57.5880.757      0.757      Paused by player, Unpause by player
+112  31:48:20.417   18960:05:58.64218960:06:01.1742.532      2.532      Paused by player, Unpause by player
+113  31:48:20.817   18960:06:01.54418960:06:02.0940.550      0.550      Paused by player, Unpause by player
+114  31:48:21.867   18960:06:03.11418960:06:04.2591.145      1.145      Paused by player, Unpause by player
+115  31:48:22.267   18960:06:04.63818960:06:05.2750.637      0.637      Paused by player, Unpause by player
+116  31:48:22.967   18960:06:05.96918960:06:11.4895.520      5.520      Paused by player, Unpause by player
+117  31:48:26.067   18960:06:14.56218960:06:20.3175.755      5.755      Paused by player, Unpause by player
+118  31:48:26.767   18960:06:20.99318960:06:22.2951.302      1.302      Paused by player, Unpause by player
+119  31:48:27.267   18960:06:22.76118960:06:26.4403.679      3.679      Paused by player, Unpause by player
+120  31:49:18.217   18960:07:17.40118960:07:21.9614.560      4.560      Paused by player, Unpause by player
+121  31:49:55.217   18960:07:58.97318960:08:04.0415.068      5.068      Paused by player, Unpause by player
+122  31:50:26.667   18960:08:35.47218960:08:36.8471.375      1.375      Paused by player, Unpause by player
+123  31:55:04.517   18960:13:14.66618960:13:25.43810.772     10.772     Paused by player, Unpause by player
+124  31:55:10.317   18960:13:31.23218960:13:35.1373.905      3.905      Paused by player, Unpause by player
+125  31:58:47.667   18960:17:12.50818960:17:24.24211.734     11.734     Paused by player, Unpause by player
+126  31:59:06.917   18960:17:43.44318960:17:44.2620.819      0.819      Paused by player, Unpause by player
+127  31:59:07.367   18960:17:44.70518960:17:48.4013.696      3.696      Paused by player, Unpause by player
+128  31:59:08.167   18960:17:49.15418960:17:56.8587.704      7.704      Paused by player, Unpause by player
+129  31:59:08.817   18960:17:57.46618960:17:58.3960.930      0.930      Paused by player, Unpause by player
+130  31:59:16.717   18960:18:06.27118960:18:09.7773.506      3.506      Paused by player, Unpause by player
+131  31:59:54.017   18960:18:47.05018960:19:29.07242.022     42.022     Paused by player, Unpause by player
+132  32:00:08.167   18960:19:43.18618960:20:02.65619.470     19.470     Paused by player, Unpause by player
+133  32:00:12.017   18960:20:06.48118960:21:11.09364.612     64.612     Paused by player, Unpause by player
+134  32:00:21.667   18960:21:20.68518960:21:26.7336.048      6.048      Paused by player, Unpause by player
+135  32:00:24.167   18960:21:29.21018960:21:29.5450.335      0.335      Paused by player, Unpause by player
+136  32:00:26.467   18960:21:31.83618960:21:34.7862.950      2.950      Paused by player, Unpause by player
+137  32:00:28.667   18960:21:36.96818960:21:37.8300.862      0.862      Paused by player, Unpause by player
+138  32:00:47.667   18960:21:56.83618960:21:58.6701.834      1.834      Paused by player, Unpause by player
+139  32:03:01.917   18960:24:12.89518960:24:14.2811.386      1.386      Paused by player, Unpause by player
+140  32:03:02.367   18960:24:14.72418960:24:15.4870.763      0.763      Paused by player, Unpause by player
+141  32:03:02.917   18960:24:16.01018960:24:16.4450.435      0.435      Paused by player, Unpause by player
+142  32:03:03.417   18960:24:16.94018960:24:18.3211.381      1.381      Paused by player, Unpause by player
+143  32:03:04.067   18960:24:18.93518960:24:19.3540.419      0.419      Paused by player, Unpause by player
+144  32:03:04.667   18960:24:19.95018960:24:20.3530.403      0.403      Paused by player, Unpause by player
+145  32:03:05.217   18960:24:20.89018960:24:21.3200.430      0.430      Paused by player, Unpause by player
+146  32:03:05.917   18960:24:21.97918960:24:22.3900.411      0.411      Paused by player, Unpause by player
+147  32:03:06.467   18960:24:22.89418960:24:23.2850.391      0.391      Paused by player, Unpause by player
+148  32:03:06.967   18960:24:23.75018960:24:24.1330.383      0.383      Paused by player, Unpause by player
+149  32:03:07.467   18960:24:24.61018960:24:25.0540.444      0.444      Paused by player, Unpause by player
+150  32:03:09.517   18960:24:27.08918960:24:27.8300.741      0.741      Paused by player, Unpause by player
+151  32:03:09.917   18960:24:28.22718960:24:28.6800.453      0.453      Paused by player, Unpause by player
+152  32:03:10.567   18960:24:29.31518960:24:29.7900.475      0.475      Paused by player, Unpause by player
+153  32:03:11.217   18960:24:30.39718960:24:30.8280.431      0.431      Paused by player, Unpause by player
+154  32:03:11.917   18960:24:31.49718960:24:32.1680.671      0.671      Paused by player, Unpause by player
+155  32:03:12.417   18960:24:32.62418960:24:33.5850.961      0.961      Paused by player, Unpause by player
+156  32:03:13.067   18960:24:34.22618960:24:34.6210.395      0.395      Paused by player, Unpause by player
+157  32:03:13.717   18960:24:35.26818960:24:35.7040.436      0.436      Paused by player, Unpause by player
+158  32:03:14.367   18960:24:36.31918960:24:36.7520.433      0.433      Paused by player, Unpause by player
+159  32:03:14.867   18960:24:37.23018960:24:37.6580.428      0.428      Paused by player, Unpause by player
+160  32:03:15.317   18960:24:38.06518960:24:38.4710.406      0.406      Paused by player, Unpause by player
+161  32:03:22.467   18960:24:45.62318960:24:46.4750.852      0.852      Paused by player, Unpause by player
+162  32:03:23.867   18960:24:47.87018960:24:48.3020.432      0.432      Paused by player, Unpause by player
+163  32:03:25.017   18960:24:49.41618960:24:50.3240.908      0.908      Paused by player, Unpause by player
+164  32:03:43.167   18960:25:08.45718960:25:08.8480.391      0.391      Paused by player, Unpause by player
+165  32:04:50.667   18960:26:16.32318960:26:25.6369.313      9.313      Paused by player, Unpause by player
+166  32:05:25.017   18960:27:00.01718960:27:30.34230.325     30.325     Paused by player, Unpause by player
+167  32:05:54.567   18960:27:59.85818960:28:01.0301.172      1.172      Paused by player, Unpause by player
+168  32:05:57.067   18960:28:03.49218960:28:04.0940.602      0.602      Paused by player, Unpause by player
+169  32:06:07.317   18960:28:14.30218960:28:15.9001.598      1.598      Paused by player, Unpause by player
+170  32:07:19.917   18960:29:28.47918960:29:37.1638.684      8.684      Paused by player, Unpause by player
+171  32:11:11.617   18960:33:28.84118960:33:45.94317.102     17.102     Paused by player, Unpause by player
+172  32:11:12.417   18960:33:46.73618960:33:55.8949.158      9.158      Paused by player, Unpause by player
+173  32:11:21.167   18960:34:04.63618960:34:22.53417.898     17.898     Paused by player, Unpause by player
+174  32:11:22.917   18960:34:24.28318960:34:33.1378.854      8.854      Paused by player, Unpause by player
+175  32:12:25.367   18960:35:35.58018960:35:38.1442.564      2.564      Paused by player, Unpause by player
+176  32:12:45.817   18960:35:58.59018960:38:31.465152.875    152.875    Paused by player, Unpause by player
+177  32:13:21.417   18960:39:07.04618960:39:47.41040.364     40.364     Paused by player, Unpause by player
+178  32:13:32.467   18960:39:58.42918960:40:07.8679.438      9.438      Paused by player, Unpause by player
+179  32:14:09.467   18960:40:44.86718960:40:46.4111.544      1.544      Paused by player, Unpause by player
+180  32:14:23.617   18960:41:00.55518960:41:08.5337.978      7.978      Paused by player, Unpause by player
+181  32:14:43.867   18960:41:28.74418960:41:30.3581.614      1.614      Paused by player, Unpause by player
+182  32:17:21.667   18960:44:08.18918960:44:08.6370.448      0.448      Paused by player, Unpause by player
+0    32:22:39.067   18960:49:26.02418962:04:03.7054477.681              Paused by player, Unpause by rendered
+0    32:23:51.805   18962:05:16.43818962:30:01.5931485.155              Paused by player, Unpause by rendered
+0    32:24:55.065   18962:31:04.85518962:49:14.7561089.901              Paused by player, Unpause by rendered
+0    32:25:40.387   18962:50:00.11218963:05:24.124924.012               Paused by player, Unpause by rendered
+0    32:26:11.631   18963:05:55.40418963:38:23.3431947.939              Paused by player, Unpause by rendered
+0    32:26:29.876   18963:38:41.61318965:52:38.4738036.860              Paused by player, Unpause by changed look direction
+1    32:27:58.427   18965:54:06.85418965:54:10.1263.272      3.272      Paused by player, Unpause by player
+2    32:28:05.027   18965:54:16.72018965:54:17.8721.152      1.152      Paused by player, Unpause by player
+3    32:31:02.177   18965:57:15.04418966:01:50.200275.156    275.156    Paused by player, Unpause by player
+4    32:34:00.477   18966:04:48.43618966:04:51.7433.307      3.307      Paused by player, Unpause by player
+0    32:47:34.727   18966:18:25.95218969:03:46.2209920.268              Paused by player, Unpause by rendered
+1    32:47:45.937   18969:03:57.42118969:03:59.8192.398      2.398      Paused by player, Unpause by player
+2    32:47:59.587   18969:04:13.43618969:04:19.6126.176      6.176      Paused by player, Unpause by player
+3    32:48:01.137   18969:04:21.15518969:04:21.6760.521      0.521      Paused by player, Unpause by player
+4    32:48:02.787   18969:04:23.29218969:04:24.0210.729      0.729      Paused by player, Unpause by player
+5    32:48:17.237   18969:04:38.45818969:04:39.0790.621      0.621      Paused by player, Unpause by player
